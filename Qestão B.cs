@@ -13,7 +13,7 @@ namespace Projeto1
 			int dobro = num1 * num1;
 			
 				
-				Console.WriteLine("A soma dos números é de:" + dobro);
+				Console.WriteLine("O dobro do número é de:" + dobro);
 				Console.ReadLine();
 			
 				  Console.WriteLine("Aperte qualquer botão para fechar...");
