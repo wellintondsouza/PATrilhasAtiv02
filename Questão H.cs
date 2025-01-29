@@ -14,7 +14,7 @@ namespace Projeto1
 			 
 			
 			
-				Console.WriteLine("A Raiz Quarada do número é de:" + valorAbsoluto);
+				Console.WriteLine("O valor Absoluto do número é de:" + valorAbsoluto);
 				Console.ReadLine();
 			
 				  Console.WriteLine("Aperte qualquer botão para fechar...");
