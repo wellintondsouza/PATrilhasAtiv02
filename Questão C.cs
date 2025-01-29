@@ -13,7 +13,7 @@ namespace Projeto1
 			int metade = num1 / 2;
 			
 				
-				Console.WriteLine("A soma dos números é de:" + metade);
+				Console.WriteLine("A metade do número é de:" + metade);
 				Console.ReadLine();
 			
 				  Console.WriteLine("Aperte qualquer botão para fechar...");
