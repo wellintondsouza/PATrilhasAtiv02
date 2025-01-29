@@ -16,7 +16,7 @@ namespace Projeto1
 			 
 			
 			
-				Console.WriteLine("A Raiz Quarada do número é de:" + subtracao);
+				Console.WriteLine("A subtração do segundo número com o do primeiro é de:" + subtracao);
 				Console.ReadLine();
 			
 				  Console.WriteLine("Aperte qualquer botão para fechar...");
