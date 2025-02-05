@@ -10,7 +10,7 @@ namespace Projeto1
 			int num1 = int.Parse (Console.ReadLine());
 			
 				
-			int dobro = num1 * num1;
+			int dobro = num1 * 2;
 			
 				
 				Console.WriteLine("O dobro do número é de:" + dobro);
